@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "dgSpecHash": "s4qewFttZv5SSn1rfmPtMuZkK3fmdcTOabqxe0m/EiRtp2e4vnQ8ph/ueyOSatUXGgA3U18MB5/tOvGVQVVgiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cliente\\source\\repos\\GL_v4\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cliente\\.nuget\\packages\\opentk\\4.3.0\\opentk.4.3.0.nupkg.sha512",
+    "C:\\Users\\Cliente\\.nuget\\packages\\opentk.compute\\4.3.0\\opentk.compute.4.3.0.nupkg.sha512",
+    "C:\\Users\\Cliente\\.nuget\\packages\\opentk.core\\4.6.4\\opentk.core.4.6.4.nupkg.sha512",
+    "C:\\Users\\Cliente\\.nuget\\packages\\opentk.graphics\\4.6.4\\opentk.graphics.4.6.4.nupkg.sha512",
+    "C:\\Users\\Cliente\\.nuget\\packages\\opentk.input\\4.3.0\\opentk.input.4.3.0.nupkg.sha512",
+    "C:\\Users\\Cliente\\.nuget\\packages\\opentk.mathematics\\4.6.4\\opentk.mathematics.4.6.4.nupkg.sha512",
+    "C:\\Users\\Cliente\\.nuget\\packages\\opentk.openal\\4.3.0\\opentk.openal.4.3.0.nupkg.sha512",
+    "C:\\Users\\Cliente\\.nuget\\packages\\opentk.redist.glfw\\3.3.0-pre20200830200122\\opentk.redist.glfw.3.3.0-pre20200830200122.nupkg.sha512",
+    "C:\\Users\\Cliente\\.nuget\\packages\\opentk.windowing.common\\4.6.4\\opentk.windowing.common.4.6.4.nupkg.sha512",
+    "C:\\Users\\Cliente\\.nuget\\packages\\opentk.windowing.desktop\\4.6.4\\opentk.windowing.desktop.4.6.4.nupkg.sha512",
+    "C:\\Users\\Cliente\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.6.4\\opentk.windowing.graphicslibraryframework.4.6.4.nupkg.sha512",
+    "C:\\Users\\Cliente\\.nuget\\packages\\opentk.winforms\\4.0.0-pre.6\\opentk.winforms.4.0.0-pre.6.nupkg.sha512",
+    "C:\\Users\\Cliente\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: OpenTK.OpenAL 4.3.0 requires OpenTK.Core (>= 4.3.0 && < 4.4.0) but version OpenTK.Core 4.6.4 was resolved.",
+      "libraryId": "OpenTK.Core",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: OpenTK.OpenAL 4.3.0 requires OpenTK.Mathematics (>= 4.3.0 && < 4.4.0) but version OpenTK.Mathematics 4.6.4 was resolved.",
+      "libraryId": "OpenTK.Mathematics",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}

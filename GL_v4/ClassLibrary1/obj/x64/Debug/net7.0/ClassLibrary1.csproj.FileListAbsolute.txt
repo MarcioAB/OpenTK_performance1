@@ -1,0 +1,12 @@
+C:\Users\Cliente\source\repos\GL_v4\ClassLibrary1\bin\x64\Debug\net7.0\ClassLibrary1.deps.json
+C:\Users\Cliente\source\repos\GL_v4\ClassLibrary1\bin\x64\Debug\net7.0\ClassLibrary1.dll
+C:\Users\Cliente\source\repos\GL_v4\ClassLibrary1\bin\x64\Debug\net7.0\ClassLibrary1.pdb
+C:\Users\Cliente\source\repos\GL_v4\ClassLibrary1\obj\x64\Debug\net7.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Cliente\source\repos\GL_v4\ClassLibrary1\obj\x64\Debug\net7.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\source\repos\GL_v4\ClassLibrary1\obj\x64\Debug\net7.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\Cliente\source\repos\GL_v4\ClassLibrary1\obj\x64\Debug\net7.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\Cliente\source\repos\GL_v4\ClassLibrary1\obj\x64\Debug\net7.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\source\repos\GL_v4\ClassLibrary1\obj\x64\Debug\net7.0\ClassLibrary1.dll
+C:\Users\Cliente\source\repos\GL_v4\ClassLibrary1\obj\x64\Debug\net7.0\refint\ClassLibrary1.dll
+C:\Users\Cliente\source\repos\GL_v4\ClassLibrary1\obj\x64\Debug\net7.0\ClassLibrary1.pdb
+C:\Users\Cliente\source\repos\GL_v4\ClassLibrary1\obj\x64\Debug\net7.0\ref\ClassLibrary1.dll
